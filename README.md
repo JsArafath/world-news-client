@@ -1,3 +1,4 @@
+```bash
 # Clone this repository
 $ git clone https://github.com/JsArafath/world-news-client.git
 
@@ -9,3 +10,4 @@ $ npm install
 
 #Start's development server
 $ npm start
+```
