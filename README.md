@@ -1,3 +1,5 @@
+## Installation
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/JsArafath/world-news-client.git
