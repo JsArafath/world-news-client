@@ -1,4 +1,4 @@
-## Installation
+# Installation
 
 ```bash
 # Clone this repository
